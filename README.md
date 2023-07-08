@@ -1,5 +1,5 @@
 # magento-promotion-bar
-Magento 2 Promotion Bar extension helps store owners create notification bars of offers, promotions, news to advertise products, attract customers' attention and increase store sales.
+Using Magento 2 Promotion Bar extension, store owners can build notification bars of offers, promotions, news to promote products, engage customers’ attention and improve store sales
 
 Please go to https://magehq.com/promotion-bar.html buy extension
 
